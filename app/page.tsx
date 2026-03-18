@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 
 export default function DiscoAI() {
   const [analizando, setAnalizando] = useState(false);
@@ -51,9 +50,4 @@ export default function DiscoAI() {
         <p><strong>4. Neutralizar:</strong> Agua oxigenada al 3% tras 1 hora.</p>
       </div>
 
-      <footer style={{ marginTop: '30px', color: '#444', fontSize: '12px' }}>
-        © 2026 Sakana Discus - Inteligencia Artificial Acuática
-      </footer>
-    </div>
-  );
-}
+      <footer style={{ marginTop:
